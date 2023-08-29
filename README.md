@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer 
+* ✍ Check out my projects here! bryantstine.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
