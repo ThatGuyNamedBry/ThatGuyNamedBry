@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div id="header"align="center">
   <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/bryant-stine/" onclick="window.open(this.href, '_blank'); return false;">
+    <a href="https://www.linkedin.com/in/bryant-stine/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
