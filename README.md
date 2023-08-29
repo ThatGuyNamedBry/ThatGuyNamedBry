@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 
-* ✍ Check out my projects [here](https://bryantstine.com){:target="_blank"}!
+* ✍ Check out my projects [here](https://bryantstine.com)!
 
 
 ### :hammer_and_wrench: Languages and Tools :
