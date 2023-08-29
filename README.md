@@ -4,6 +4,7 @@
     <a href="https://www.linkedin.com/in/bryant-stine/" onclick="window.open(this.href, '_blank'); return false;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+  </div>
 </div>
 
 <h1 id="wave" align="center">
