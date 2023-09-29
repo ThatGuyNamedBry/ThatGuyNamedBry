@@ -17,6 +17,7 @@
 * 🏡 I was born, raised, and currently reside in Phoenix, Arizona (willing to relocate!).
 * 👨‍🍳 In my freetime, I love crafting tasty delicacies in the kitchen
 
+--- 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id ="badges">
