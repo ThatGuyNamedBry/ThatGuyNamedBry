@@ -11,8 +11,6 @@
 </h1>
 </div>
 
----
-
 ### :man_technologist: About Me :
 
 * ✍ Check out my projects [here](https://bryantstine.com/#work)!
