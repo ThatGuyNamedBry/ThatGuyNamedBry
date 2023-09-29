@@ -15,8 +15,9 @@
 
 ### :man_technologist: About Me :
 
+* 🏡 I was born, raised, and currently reside in Phoenix, Arizona (willing to relocate!).
 * ✍ Check out my projects [here](https://bryantstine.com/#work)!
-* 
+* 👨‍🍳 In my freetime, I love crafting tasty delicacies in the kitchen
 
 
 ### :hammer_and_wrench: Languages and Tools :
