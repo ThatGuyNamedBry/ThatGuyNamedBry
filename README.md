@@ -15,7 +15,7 @@
 
 * ✍ Check out my projects [here](https://bryantstine.com/#work)!
 * 🏡 I was born, raised, and currently reside in Phoenix, Arizona (willing to relocate!).
-* 👨‍🍳 In my freetime, I love crafting tasty delicacies in the kitchen
+* 👨‍🍳 In my freetime, I love crafting tasty delicacies in the kitchen 🍨🍞.
 
 --- 
 
