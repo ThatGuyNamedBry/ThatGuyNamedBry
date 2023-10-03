@@ -4,14 +4,16 @@
     <a href="https://www.linkedin.com/in/bryant-stine/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <details>
-      <summary>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
-        </a>
-      </summary>
-      bryantstine10@gmail.com
-    </details>
+<details>
+  <summary>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
+    </a>
+    <span style="display:inline-block; width: 100%;">
+    </span>
+  </summary>
+  bryantstine10@gmail.com
+</details>
   </div>
 <h1 id="wave" align="center">
   Hello!
