@@ -4,11 +4,10 @@
     <a href="https://www.linkedin.com/in/bryant-stine/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <label for="email-toggle" id="email-label">
+    <a href="javascript:void(0);" onclick="document.getElementById('email-details').style.display=''; this.onclick=null;">
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
-    </label>
-    <input type="checkbox" id="email-toggle" style="display: none;">
-    <div id="email-content">
+    </a>
+    <div id="email-details" style="display: none;">
       bryantstine10@gmail.com
     </div>
   </div>
