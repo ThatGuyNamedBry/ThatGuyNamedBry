@@ -9,7 +9,7 @@
     <a href="mailto:bryantstine10@gmail.com">
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
     </a>
-    <span style="display:inline-block; width: 100%;">
+    <span style="display:inline-block; width: 100%; align-items="center";">
     </span>
   </summary>
   bryantstine10@gmail.com
