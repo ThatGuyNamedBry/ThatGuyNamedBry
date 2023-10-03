@@ -7,9 +7,14 @@
     <a href="javascript:void(0);" onclick="document.getElementById('email-details').style.display=''; this.onclick=null;">
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
     </a>
-    <div id="email-details" style="display: none;">
+    <details>
+      <summary>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
+        </a>
+      </summary>
       bryantstine10@gmail.com
-    </div>
+    </details>
   </div>
 <h1 id="wave" align="center">
   Hello!
