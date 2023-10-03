@@ -4,9 +4,10 @@
     <a href="https://www.linkedin.com/in/bryant-stine/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <button onclick="displayEmail()">
+      <a id="email-link" href="javascript:void(0);" onclick="revealEmail();">
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
-    </button>
+    </a>
+    <span id="hidden-email" style="display:none;">bryantstine10@gmail.com</span>
   </div>
 <h1 id="wave" align="center">
   Hello!
@@ -14,11 +15,6 @@
 </h1>
 </div>
 
-<script>
-  function displayEmail() {
-    alert("YourEmail@example.com");
-  }
-</script>
 
 ### :man_technologist: About Me :
 
