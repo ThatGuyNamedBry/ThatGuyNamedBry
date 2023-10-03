@@ -4,14 +4,13 @@
     <a href="https://www.linkedin.com/in/bryant-stine/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <details>
-      <summary>
-        <a href="#"> <!-- This link is just a placeholder, as details/summary need an interactive element -->
-          <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
-        </a>
-      </summary>
+    <label for="email-toggle" id="email-label">
+      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
+    </label>
+    <input type="checkbox" id="email-toggle" style="display: none;">
+    <div id="email-content">
       bryantstine10@gmail.com
-    </details>
+    </div>
   </div>
 <h1 id="wave" align="center">
   Hello!
