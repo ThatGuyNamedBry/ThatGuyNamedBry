@@ -4,25 +4,15 @@
     <a href="https://www.linkedin.com/in/bryant-stine/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <button onclick="toggleEmail()">Show Email</button>
-    <p id="email" style="display: none;">bryantstine10@gmail.com</p>
+      <span>
+      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/> bryant.stine@example.com
+    </span>
   </div>
 <h1 id="wave" align="center">
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align-items="center"/>
 </h1>
 </div>
-
-<script>
-  function toggleEmail() {
-    var email = document.getElementById('email');
-    if (email.style.display === 'none') {
-      email.style.display = 'block';
-    } else {
-      email.style.display = 'none';
-    }
-  }
-</script>
 
 ### :man_technologist: About Me :
 
