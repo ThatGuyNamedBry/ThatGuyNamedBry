@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/bryant-stine/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="javascript:void(0);" onclick="document.getElementById('email-details').style.display=''; this.onclick=null;">
-      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
-    </a>
     <details>
       <summary>
         <a href="#">
