@@ -26,9 +26,9 @@
 ### :man_technologist: About Me :
 
 * ✍ Check out my projects [here](https://bryantstine.com/#work)!
-* 👨‍🍳 In my freetime, I love crafting tasty delicacies in the kitchen 🍨🍞.
 * 🎓 Graduated from App Academy 24-week Full-Time Coding Bootcamp in September 2023!
 * 🏡 I was born, raised, and currently reside in Phoenix, Arizona (willing to relocate!).
+* 👨‍🍳 In my freetime, I love crafting tasty delicacies in the kitchen 🍨🍞.
 
 --- 
 
