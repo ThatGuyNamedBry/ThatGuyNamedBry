@@ -18,7 +18,6 @@
 <h1 id="wave" align="center">
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align-items="center"/>
-<!--   <img src="https://i.redd.it/23slx70fr67z.gif" width="30px" align-items="center"/>   -->
 </h1>
 </div>
 
@@ -58,6 +57,7 @@
 
 
 
+<!--   <img src="https://i.redd.it/23slx70fr67z.gif" width="30px" align-items="center"/>   -->
 <!--
 **ThatGuyNamedBry/ThatGuyNamedBry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
