@@ -17,6 +17,7 @@
   </div>
 <h1 id="wave" align="center">
   Hello there!
+<!--   img not currently working, working on debugging -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align-items="center"/>
 <!--   <img src="https://i.redd.it/23slx70fr67z.gif" width="30px" align-items="center"/>   -->
 </h1>
