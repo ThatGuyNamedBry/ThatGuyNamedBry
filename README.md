@@ -16,7 +16,7 @@
 </details>
   </div>
 <h1 id="wave" align="center">
-  Hello there!
+  Hey there!
 <!--   img not currently working, working on debugging -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align-items="center"/>
 <!--   a second attempt to fix the above, still not showing wave gif -->
