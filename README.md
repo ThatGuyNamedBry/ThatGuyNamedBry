@@ -21,8 +21,10 @@
 <!--   insert kenobi meme here -->
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align-items="center"/>
+  
 <!--   a second attempt to fix the waving gif above, still not showing -->
 <!--   <img src="https://i.redd.it/23slx70fr67z.gif" width="30px" align-items="center"/>   -->
+
 </h1>
 </div>
 
