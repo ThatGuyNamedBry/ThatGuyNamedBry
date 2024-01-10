@@ -18,10 +18,11 @@
 <h1 id="wave" align="center">
   Hey there!
 <!--   img currently working, unsure why it stopped and started working, debugging in progress -->
+  
 <!--   insert kenobi meme here -->
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align-items="center"/>
-  
+
 <!--   a second attempt to fix the waving gif above, still not showing -->
 <!--   <img src="https://i.redd.it/23slx70fr67z.gif" width="30px" align-items="center"/>   -->
 
@@ -57,7 +58,6 @@
 
 ### 🔥 My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyNamedBry&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
