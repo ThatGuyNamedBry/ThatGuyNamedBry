@@ -18,7 +18,6 @@
 <h1 id="wave" align="center">
   Hey there!
 <!--   img currently working, unsure why it stopped and started working, debugging in progress -->
-  
 <!--   insert kenobi meme here -->
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align-items="center"/>
